@@ -1,2 +1,2 @@
 #!/bin/bash
-MY name is betty
+su betty
